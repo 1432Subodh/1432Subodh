@@ -1,54 +1,64 @@
-![Header](https://raw.githubusercontent.com/<your-username>/your-repo/main/header-image.png)
+### Hi there, I'm Subodh Ravidas! 👋
 
-<h1 align="center">Hi there, I'm Aryan Sankrit! 👋</h1>
-<p align="center">
-  <i>Frontend Developer | React.js Enthusiast | Tailwind CSS Pro</i>
-</p>
-
----
-
-### 🚀 About Me
-- 💻 I build scalable and interactive web applications.
-- 🎨 Passionate about clean UI/UX and component-based architecture.
-- 📚 Always learning new web technologies.
-- 📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)!
-
-### 🛠️ Tech Stack
-- **Frontend:** React.js, Next.js, Tailwind CSS, JavaScript (ES6+)
-- **State Management:** Redux, Zustand
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, Firebase
-- **Other Tools:** Git, Figma, Vercel, Netlify
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
-</p>
-
-### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-### 🛠️ Latest Projects
-- 🚀 **Project 1:** [Live Demo](#) | [Repo](#)
-- 🎨 **Project 2:** [Live Demo](#) | [Repo](#)
-- 📊 **Project 3:** [Live Demo](#) | [Repo](#)
-
-### ⚡ Fun Fact
-_"A well-designed UI is like a well-prepared meal – delightful and satisfying!"_
+🚀 **Passionate Web Developer | Crafting Engaging User Experiences**  
+💻 **React JS | Tailwind CSS | GSAP | Next.js**  
+📍 Hazaribagh, India  
 
 ---
 
-### 📫 Let's Connect!
-- 🌐 **Portfolio:** [yourwebsite.com](#)
-- 🐦 **Twitter:** [@yourhandle](#)
-- 📩 **Email:** your.email@example.com
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<your-username>/your-repo/main/footer-image.png">
-</p>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
+---
+
+## 📌 About Me
+
+> "Hello, I'm Subodh Ravidas, a dedicated Frontend Developer specializing in Tailwind CSS, GSAP, and React JS. My proficiency in Tailwind CSS allows me to build responsive and visually appealing user interfaces, while GSAP enables me to add dynamic animations that enhance the overall user experience. Leveraging React JS and Next.js, I create robust and scalable applications for seamless interactions and high performance."
+
+---
+
+## 🎯 Projects
+
+🔹 **Lodge Finding Website**  
+🔗 [Live Demo](https://lodgeverse.netlify.app/)  
+🛠 Built with **Next.js, Tailwind CSS, MongoDB**  
+✔ Reduced page load time by **40%**
+
+---
+
+## 🎓 Education
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+📍 Vinoba Bhave University (2022 - Present)
+
+---
+
+## 🏆 Achievements
+
+✅ Optimized a production **Next.js** application, improving performance by **40%**  
+✅ Developed and deployed a **Next.js**-based lodge-finding website  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subodhravidas/)  
+✉️ **Email**: [subodh14329@gmail.com](mailto:subodh14329@gmail.com)  
+
+---
+
+## 🎵 Hobbies
+🎧 Listening to Music & 🎨 Writing Code
+
+---
+
+🔥 Let's build something amazing together! 🚀
