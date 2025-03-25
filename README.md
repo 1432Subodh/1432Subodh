@@ -44,13 +44,6 @@
 
 ---
 
-## 📊 GitHub Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SubodhRavidas&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubodhRavidas&show_icons=true&theme=radical&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SubodhRavidas&layout=compact&theme=radical&hide_border=true)
-
----
 
 ## 🎓 Education
 
