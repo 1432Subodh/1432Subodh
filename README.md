@@ -26,6 +26,15 @@
 
 ---
 
+## 💼 Work Experience
+
+👨‍💻 **Frontend Development Intern**  
+🏢 **TechiesGateway**  
+📅 **2025 - Present**  
+✔ Gaining hands-on experience in building responsive web applications with **React.js, Next.js, and Tailwind CSS**
+
+---
+
 ## 🎯 Projects
 
 🔹 **Lodge Finding Website**  
